@@ -1,1 +1,1 @@
-# curso-streamlit-termux
+# curso_streamlit
